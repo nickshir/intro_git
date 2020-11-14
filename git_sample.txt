@@ -17,3 +17,8 @@ gitの練習をしていきます。
     -n num
 ・git diff
 ・git diff HEAD
+
+・git rm
+・git rm --cached ファイル名
+・git reset HEAD
+・git checkout ファイル名
