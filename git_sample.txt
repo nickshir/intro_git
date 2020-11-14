@@ -1,3 +1,9 @@
 gitの練習をしていきます。
 変更１
 変更２
+・git add
+・git commit
+    1.変更内容
+    2.空行
+    3.変更理由
+・git push -u origin main
