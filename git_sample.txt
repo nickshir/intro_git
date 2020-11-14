@@ -7,4 +7,6 @@ gitの練習をしていきます。
     2.空行
     3.変更理由
     ※-Vオプションで変更場所をcommit時に表示できる
+・git rm
+・git status
 ・git push -u origin main
