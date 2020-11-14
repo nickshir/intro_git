@@ -15,3 +15,5 @@ gitの練習をしていきます。
     --oneline
     -p (filename)
     -n num
+・git diff
+・git diff HEAD
